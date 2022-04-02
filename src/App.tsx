@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react'
-import logo from './logo.svg'
-import './App.css'
+import { GlobalStyle } from './styles/global'
 
 interface products{
   name:string,
@@ -18,6 +17,7 @@ function App() {
         .then(data => setProducts(data))
     },[])
     return (
+        <>
         <section className="repository-list">
             <h1>Lista de Produtos</h1>
             <ul>
@@ -32,6 +32,8 @@ function App() {
                 })}        
             </ul>
         </section>
+        <GlobalStyle />
+        </>
         
     )
 }
