@@ -6,6 +6,10 @@ export const GlobalStyle = createGlobalStyle`
        --background:#F9F0E8;
        --blue: #0912C9;
        --green:#00ed8c;
+       --text:#454246;
+
+       --fridge-bg:#E5F2F9;
+       --white:#fff;
     }
     
     * {
@@ -28,6 +32,7 @@ export const GlobalStyle = createGlobalStyle`
    body{
        background:var(--background);
        -webkit-font-smoothing: antialiased;
+       color:var(--text);
    }
 
    body, input, textarea, button{
@@ -46,8 +51,6 @@ export const GlobalStyle = createGlobalStyle`
         opacity: 0.6;
         cursor: not-allowed;
    }
-
-
 
 
 `
