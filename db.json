@@ -1145,6 +1145,132 @@
           "quantity": 3
         }
       ]
+    },
+    {
+      "id": "l1kz5tjzh8ij8fq5s8a",
+      "openFridge": "2022-04-04T17:16:47.010Z",
+      "closeFridge": "2022-04-04T17:17:47.010Z",
+      "products": [
+        {
+          "id": 1,
+          "name": "Guaraná Antarctica 2L",
+          "price": 7.79,
+          "thumb": "https://www.catalogoambev.com.br/images/uploads/artes-finais/4bddaa2311de7e142511ecde1a88daeb.png",
+          "quantity": 3
+        },
+        {
+          "id": 2,
+          "name": "Corona Extra 330ml",
+          "price": 5.79,
+          "thumb": "https://www.catalogoambev.com.br/images/uploads/artes-finais/4518362b24dedc7d296abf5590d6184c.png",
+          "quantity": 4
+        },
+        {
+          "id": 3,
+          "name": "Do Bem Suco de Laranja Integral 1",
+          "price": 8.65,
+          "thumb": "https://www.catalogoambev.com.br/images/uploads/artes-finais/53780b507bafd1a4bfb6b006084a2460.png",
+          "quantity": 3
+        },
+        {
+          "id": 4,
+          "name": "Stella Artois 330 ml",
+          "price": 4.99,
+          "thumb": "https://www.catalogoambev.com.br/images/uploads/artes-finais/fb31bc752cf7e0792f07da456c4ad8d7.png",
+          "quantity": 2
+        },
+        {
+          "id": 5,
+          "name": "Pepsi 2L",
+          "price": 5.99,
+          "thumb": "https://www.catalogoambev.com.br/images/uploads/artes-finais/0a0a9d04f43c521b99d8493e01839ad0.png",
+          "quantity": 4
+        },
+        {
+          "id": 6,
+          "name": "Spaten 350ml",
+          "price": 3.79,
+          "thumb": "https://www.catalogoambev.com.br/images/uploads/artes-finais/248fa97787be649355fadb5a91922977.png",
+          "quantity": 3
+        },
+        {
+          "id": 7,
+          "name": "Gatorade Limão 500 ml",
+          "price": 4.29,
+          "thumb": "https://www.catalogoambev.com.br/images/uploads/artes-finais/b533ac0b75e5650d675885609dbaa69d.png",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "l1kz655z80jybo8t8fa",
+      "openFridge": "2022-04-04T17:17:02.063Z",
+      "closeFridge": "2022-04-04T17:18:02.063Z",
+      "products": [
+        {
+          "id": 8,
+          "name": "Bohemia lata",
+          "price": 3.09,
+          "thumb": "https://www.catalogoambev.com.br/images/uploads/artes-finais/0661f839c8e9529cc445e6296c7c613e.png",
+          "quantity": 2
+        },
+        {
+          "id": 9,
+          "name": "Colorado Ribeirão Lager 410 ml",
+          "price": 4.99,
+          "thumb": "https://www.catalogoambev.com.br/images/uploads/artes-finais/8fe31e103d212ae0d67c477607c9b70d.png",
+          "quantity": 3
+        },
+        {
+          "id": 10,
+          "name": "Becks 350ml",
+          "price": 4.79,
+          "thumb": "https://www.catalogoambev.com.br/images/uploads/artes-finais/d873e80735af954750ce353c9ab5fbcf.png",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "l1l0qoa2qxg5yvjh3ci",
+      "openFridge": "2022-04-04T18:00:59.571Z",
+      "closeFridge": "2022-04-04T18:01:59.571Z",
+      "products": [
+        {
+          "id": 11,
+          "name": "Cerveja Original lata",
+          "price": 3.49,
+          "thumb": "https://www.catalogoambev.com.br/images/uploads/artes-finais/b1748141f31dad82332e7f9e32fde7f2.png",
+          "quantity": 3
+        },
+        {
+          "id": 12,
+          "name": "Brahma Duplo Malte 350 ml",
+          "price": 3.19,
+          "thumb": "https://www.catalogoambev.com.br/images/uploads/artes-finais/1f24a00980933ae09205d02ff3e4e3ac.png",
+          "quantity": 2
+        },
+        {
+          "id": 13,
+          "name": "Budweiser 350 ml",
+          "price": 4.49,
+          "thumb": "https://www.catalogoambev.com.br/images/uploads/artes-finais/fc76daeb00584a809b7d9aac0a85e4fb.png",
+          "quantity": 1
+        },
+        {
+          "id": 14,
+          "name": "Guarana Zero 350ml",
+          "price": 2.49,
+          "thumb": "https://www.catalogoambev.com.br/images/uploads/artes-finais/e3aedfe1d0d68a65187d3d6f838451e0.png",
+          "quantity": 3
+        },
+        {
+          "id": 15,
+          "name": "Hoegaarden",
+          "price": 7.9,
+          "thumb": "https://www.catalogoambev.com.br/images/uploads/artes-finais/31413028d0b62e55a5fe7172499bc3a7.png",
+          "quantity": 3
+        }
+      ]
     }
   ],
   "payments": [

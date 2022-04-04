@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import { ProductsListStyle } from './style'
 import { Product } from '../Product'
-import { NewTransactionModal } from '../NewTransactionModal'
+
 
 
 
